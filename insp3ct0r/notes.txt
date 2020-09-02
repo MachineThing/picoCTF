@@ -1,0 +1,9 @@
+Hint: Didn't read
+
+Notes:
+Viewing source, the flag is in multiple places
+
+1: picoCTF{tru3_d3  (index.html)
+2: t3ct1ve_0r_ju5t  (mycss.css)
+3: _lucky?8a7e3144} (myjs.js)
+Answer:
